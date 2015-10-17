@@ -1,20 +1,19 @@
 {
   "name": "atom-autocomplete-wordpress-hooks",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Autocomplete support for WordPress actions and filters.",
   "keywords": [
-      "php",
-      "wordpress",
-      "autocomplete"
+    "php",
+    "wordpress",
+    "autocomplete"
   ],
   "repository": "https://github.com/joehoyle/atom-autocomplete-wordpress-hooks",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
