@@ -1,5 +1,5 @@
-# wordpress-hooks package
+# Autocomplete WordPress Hooks
 
-A short description of your package.
+Autocomplete support for WordPress actions and filters in the Atom editor.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![autocomplete](https://cloud.githubusercontent.com/assets/161683/10559544/0a2daa42-74c1-11e5-9bbc-63c2275e90f6.gif)
