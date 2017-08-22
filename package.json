@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-wordpress-hooks",
   "main": "./lib/main",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Autocomplete support for WordPress actions and filters.",
   "keywords": [
     "php",
